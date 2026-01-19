@@ -303,6 +303,8 @@ const FitnessApp = () => {
             </h1>
           </div>
           <p className="text-gray-300">Your Personal Fitness & Nutrition Assistant</p>
+          <br></br>
+          <p className="text-gray-300">Created By: Jason Shi</p>
         </header>
 
         <div className="flex gap-4 mb-8 justify-center flex-wrap">
